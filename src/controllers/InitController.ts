@@ -1,6 +1,6 @@
 import { Init } from '@models/Init'
 
-export class UsersController {
+export class InitController {
   teste () {
     const init = new Init()
   }
